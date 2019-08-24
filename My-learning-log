@@ -1,0 +1,5 @@
+Creating a new app:
+	use the below command - npm init react-app my-learning-guide
+
+This would provide you with a bare minimum code to start up your project.
+
